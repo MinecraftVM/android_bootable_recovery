@@ -753,7 +753,7 @@
 		<string name="pb_verify_incremental_ota_signature_chk">增量OTA签名验证</string>
 		<string name="pb_disable_reboot_ota_check">禁止OTA后自动重启</string>
 		<string name="pb_advanced_stock_recovery">禁止OTA时恢复REC</string>
-		<string name="core_contributors">汉化：OLX Team</string>
+		<string name="core_contributors">汉化：OLX Team & Minecraft-VM</string>
 		<string name="device_info">设备信息</string>
 		<string name="device_name">设备名称 : %pb_device_manufacturer% %pb_device_name%</string>
 		<string name="device_codename">设备代号 : %pb_device%</string>
@@ -785,5 +785,9 @@
 		<string name="pb_enable_dmesg_logging">启用Dmesg日志记录</string>
 		<string name="pb_dmverity_chk">去除DM-Verity</string>
 		<string name="pb_for_en_chk">去除强制加密</string>
+                <!-- 特殊功能提示 -->
+                <string name="pb_thanks">感谢使用PitchBlack恢复项目！</string>
+                <string name="pb_donate">如果您喜欢，请考虑捐赠</string>
+                <string name="pb_coming_soon">即将推出...</string>
 	</resources>
 </language>
